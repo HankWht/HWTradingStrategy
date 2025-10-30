@@ -2,7 +2,7 @@
 
 # Guía paso a paso para iniciar el proyecto
 
-Esta guía te llevará desde cero hasta tener el sistema de trading funcionando.  
+Esta guía te llevará desde cero hasta tener el sistema de trading funcionando y hacerte de pileta de dinero.  
 Incluye la instalación, configuración y ejecución del pipeline que genera señales de acciones listas para analizar o ejecutar manualmente.
 
 ---
